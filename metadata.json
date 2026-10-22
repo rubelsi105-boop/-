@@ -1,0 +1,6 @@
+{
+  "name": "Rubel",
+  "description": "Rubel AI Intelligent Assistant featuring glowing neon pink cyber design, smart assistance, app editor tools, and customizable profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
